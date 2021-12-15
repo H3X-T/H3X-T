@@ -11,7 +11,7 @@
 
 - 👯 I’m dreaming to be a **Software Engineer**
 
-- 👨‍💻 All of my projects are available at **[My GitHub](https://github.com/supakorngap?tab=repositories)**
+- 👨‍💻 All of my projects are available at **[My GitHub](https://github.com/H3XTy?tab=repositories)**
 
 - 📫 How to reach me **supakorn0728@gmail.com**
 
@@ -43,16 +43,16 @@
 <br/>
 
 <p align="center">
-    <a href="https://github.com/GappyZ/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="GappyZ's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=GappyZ&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    <a href="https://github.com/H3XTy/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Supakorn's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=H3XTy&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 
 ## 📊 My Github Stats
 
   <br/>
-    <a href="https://github.com/GappyZ/github-readme-stats"><img alt="GappyZ's Github Stats" src="https://github-readme-stats.vercel.app/api?username=GappyZ&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/GappyZ/github-readme-stats"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GappyZ&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/H3XTy/github-readme-stats"><img alt="Supakorn's Github Stats" src="https://github-readme-stats.vercel.app/api?username=H3XTy&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/H3XTy/github-readme-stats"><img alt="H3XTy's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=H3XTy&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> Top languages are only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
@@ -60,7 +60,7 @@
 <br/>
 <br/>
 
-<a href="https://github.com/GappyZ/github-readme-activity-graph"><img alt="GappyZ's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=GappyZ&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/H3XTy/github-readme-activity-graph"><img alt="Supakorn's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=H3XTy&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
@@ -76,7 +76,7 @@
 </p>
 
 ## ❤ Views and Followers
-<a href="https://github.com/GappyZ/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=GappyZ">
+<a href="https://github.com/H3XTy/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=H3XTy">
 </a>
-<a href="https://github.com/GappyZ?tab=followers"><img src="https://img.shields.io/github/followers/GappyZ?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/H3XTy?tab=followers"><img src="https://img.shields.io/github/followers/H3XTy?label=Followers&style=social" alt="GitHub Badge"></a>
