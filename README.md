@@ -1,11 +1,11 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Supakorn</h1>
-<h3 align="center">I'm a student love in programming, From Thailand </h3>
+<h3 align="center">I'm a student From Thailand </h3>
 
 <a href="#"><img width="100%" height="auto" src="https://i0.wp.com/www.printmag.com/wp-content/uploads/2021/02/4cbe8d_f1ed2800a49649848102c68fc5a66e53mv2.gif?fit=476%2C280&ssl=1" height="175px"/></a>
 
 ## 🙋‍♂️ About Me
 
-- 🔭 My name is GAP , I'm16 years old, Love to coding, Form **[Thailand](https://en.wikipedia.org/wiki/Thailand)**
+- 🔭 My name is GAP , I'm16 years old,From **[Thailand](https://en.wikipedia.org/wiki/Thailand)**
 
 - 🌱 I’m want to learn **Every lang and Data structures and algorithms**
 
