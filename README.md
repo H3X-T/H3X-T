@@ -5,7 +5,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 My name is GAP , I'm16 years old,From **[Thailand](https://en.wikipedia.org/wiki/Thailand)**
+- 🔭 My name is GAP , I'm16 years old , From **[Thailand](https://en.wikipedia.org/wiki/Thailand)**
 
 - 🌱 I’m want to learn **Every lang and Data structures and algorithms**
 
