@@ -9,7 +9,7 @@
 
 - 🌱 I’m want to learn **Everything**
 
-- 👯 I’m dreaming to be a **Software Engineer**
+- 👯 I’m dreaming to be a **Software developer**
 
 - 👨‍💻 All of my projects are available at **[My GitHub](https://github.com/H3X-T?tab=repositories)**
 
