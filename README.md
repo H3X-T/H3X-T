@@ -46,6 +46,7 @@
     <a href="https://mariadb.org/"target="_blank"><img src="https://img.icons8.com/color/48/000000/maria-db.png"/></a>
     <a href="https://www.rust-lang.org/"target="_blank"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-rust-is-a-multi-paradigm-system-programming-language-logo-color-tal-revivo.png"/></a>
     <a href="https://www.ruby-lang.org/en/"target="_blank"><img src="https://img.icons8.com/fluency/48/000000/ruby-programming-language.png"/></a>
+    <a href="https://atom.io/"target="_blank"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-atom-solutions-is-an-it-consultancy-focused-on-delivering-technology-oriented-solutions-logo-color-tal-revivo.png"/></a>
 
 
 
