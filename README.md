@@ -75,6 +75,7 @@
     <a href="https://www.figma.com/files/recent?fuid=1060970518427022260" target="_blank"><img src="https://img.icons8.com/color/48/000000/figma--v1.png"/></a>
     <a href="https://git-scm.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/git.png"/></a>
     <a href="https://jupyter.org/" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/jupyter.png"/></a>
+    <a href="https://atom.io/"target="_blank"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-atom-solutions-is-an-it-consultancy-focused-on-delivering-technology-oriented-solutions-logo-color-tal-revivo.png"/></a>
 
 </p>
 
@@ -82,7 +83,6 @@
       <a href="https://github.com/H3X-T/github-readme-stats"><img alt="H3X-T's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=H3X-T&layout=compact&theme=merko&hide_border=true&custom_title=Languages" /></a>
     <a href="https://github.com/H3X-T/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Supakorn's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=H3X-T&theme=merko&hide_border=true&stroke=0000&background=0a0f0b"/></a>
-    <a href="https://atom.io/"target="_blank"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-atom-solutions-is-an-it-consultancy-focused-on-delivering-technology-oriented-solutions-logo-color-tal-revivo.png"/></a>
 </p>
 
 ## 📊 My Github Stats
