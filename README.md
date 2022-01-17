@@ -88,7 +88,7 @@
 ## 📊 My Github Stats
 
   <br/>
-    <a href="https://github.com/H3X-T/github-readme-stats"><img alt="Supakorn's Github Stats" src="https://github-readme-stats.vercel.app/api?username=H3X-T&show_icons=true&count_private=true&theme=merko&hide_border=true&bg_color=0a0f0b" /></a>
+    <a href="https://github.com/H3X-T/github-readme-stats"><img alt="=" src="https://github-readme-stats.vercel.app/api?username=H3X-T&show_icons=true&count_private=true&theme=merko&hide_border=true&bg_color=0a0f0b" /></a>
 
 
 <a href="https://github.com/H3X-T/github-readme-activity-graph"><img alt="Supakorn's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=H3X-T&bg_color=0a0f0b&color=a4d100&line=587a21&point=FFFFFF&hide_border=true" /></a>
