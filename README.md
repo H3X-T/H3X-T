@@ -25,27 +25,27 @@
     <a href="https://www.w3schools.com/js/default.asp" target="_blank"><img src="https://img.icons8.com/color/48/000000/javascript.png"/></a> 
     <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/></a>
     <a href="https://www.python.org" target="_blank"><img src="https://img.icons8.com/color/48/000000/python.png"/></a>
-    #<a href="https://www.php.net/" target="_blank"><img src="https://img.icons8.com/offices/48/000000/php-logo.png"/></a>
-    #<a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"><img src="https://img.icons8.com/color/48/000000/c-programming.png"/></a>
-    #<a href="https://www.w3schools.com/cs/index.php" target="_blank"><img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png"/></a>
-    #<a href="https://www.w3schools.com/cpp/default.asp" target="_blank"><img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/></a>
-    #<a href="https://www.w3schools.com/r/default.asp" target="_blank"><img src="https://img.icons8.com/external-becris-flat-becris/48/000000/external-r-data-science-becris-flat-becris.png"/></a>
-    #<a href="https://www.w3schools.com/sql/default.asp"target="_blank"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-mysql-an-open-source-relational-database-management-system-logo-shadow-tal-revivo.png"/></a>
-    #<a href="https://go.dev/"target="_blank"><img src="https://img.icons8.com/color/48/000000/golang.png"/></a>
-    #<a href="https://www.w3schools.com/java/"target="_blank"><img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/></a>
-    #<a href="https://kotlinlang.org/"target="_blank"><img src="https://img.icons8.com/color/48/000000/kotlin.png"/></a>
-    #<a href="https://www.mongodb.com/"target="_blank"><img src="https://img.icons8.com/color/48/000000/mongodb.png"/></a>
-    #<a href="https://angular.io/"target="_blank"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-angular-a-typescript-based-open-source-web-application-framework-logo-color-tal-revivo.png"/></a>
-    #<a href="https://reactjs.org/"target="_blank"><img src="https://img.icons8.com/office/48/000000/react.png"/></a>
-    #<a href="https://redux.js.org/"target="_blank"><img src="https://img.icons8.com/color/48/000000/redux.png"/></a>
-    #<a href="https://nodejs.org/en/"target="_blank"><img src="https://img.icons8.com/color/48/000000/nodejs.png"/></a>
-    #<a href="https://vuejs.org/"target="_blank"><img src="https://img.icons8.com/color/48/000000/vue-js.png"/></a>
-    #<a href="https://www.djangoproject.com/"target="_blank"><img src="https://img.icons8.com/color/48/000000/django.png"/></a>
-    #<a href="https://flask.palletsprojects.com/en/2.0.x/"target="_blank"><img src="https://img.icons8.com/ios/48/000000/flask.png"/></a>
-    #<a href="https://www.w3schools.com/jquERy/default.asp"target="_blank"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-jquery-is-a-javascript-library-designed-to-simplify-html-logo-shadow-tal-revivo.png"/></a>
-    #<a href="https://mariadb.org/"target="_blank"><img src="https://img.icons8.com/color/48/000000/maria-db.png"/></a>
-    #<a href="https://www.rust-lang.org/"target="_blank"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-rust-is-a-multi-paradigm-system-programming-language-logo-color-tal-revivo.png"/></a>
-    #<a href="https://www.ruby-lang.org/en/"target="_blank"><img src="https://img.icons8.com/fluency/48/000000/ruby-programming-language.png"/></a>
+<!--     <a href="https://www.php.net/" target="_blank"><img src="https://img.icons8.com/offices/48/000000/php-logo.png"/></a>
+    <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"><img src="https://img.icons8.com/color/48/000000/c-programming.png"/></a>
+    <a href="https://www.w3schools.com/cs/index.php" target="_blank"><img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png"/></a>
+    <a href="https://www.w3schools.com/cpp/default.asp" target="_blank"><img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/></a>
+    <a href="https://www.w3schools.com/r/default.asp" target="_blank"><img src="https://img.icons8.com/external-becris-flat-becris/48/000000/external-r-data-science-becris-flat-becris.png"/></a>
+    <a href="https://www.w3schools.com/sql/default.asp"target="_blank"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-mysql-an-open-source-relational-database-management-system-logo-shadow-tal-revivo.png"/></a>
+    <a href="https://go.dev/"target="_blank"><img src="https://img.icons8.com/color/48/000000/golang.png"/></a>
+    <a href="https://www.w3schools.com/java/"target="_blank"><img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/></a>
+    <a href="https://kotlinlang.org/"target="_blank"><img src="https://img.icons8.com/color/48/000000/kotlin.png"/></a>
+    <a href="https://www.mongodb.com/"target="_blank"><img src="https://img.icons8.com/color/48/000000/mongodb.png"/></a>
+    <a href="https://angular.io/"target="_blank"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-angular-a-typescript-based-open-source-web-application-framework-logo-color-tal-revivo.png"/></a>
+    <a href="https://reactjs.org/"target="_blank"><img src="https://img.icons8.com/office/48/000000/react.png"/></a>
+    <a href="https://redux.js.org/"target="_blank"><img src="https://img.icons8.com/color/48/000000/redux.png"/></a>
+    <a href="https://nodejs.org/en/"target="_blank"><img src="https://img.icons8.com/color/48/000000/nodejs.png"/></a>
+    <a href="https://vuejs.org/"target="_blank"><img src="https://img.icons8.com/color/48/000000/vue-js.png"/></a>
+    <a href="https://www.djangoproject.com/"target="_blank"><img src="https://img.icons8.com/color/48/000000/django.png"/></a>
+    <a href="https://flask.palletsprojects.com/en/2.0.x/"target="_blank"><img src="https://img.icons8.com/ios/48/000000/flask.png"/></a>
+    <a href="https://www.w3schools.com/jquERy/default.asp"target="_blank"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-jquery-is-a-javascript-library-designed-to-simplify-html-logo-shadow-tal-revivo.png"/></a>
+    <a href="https://mariadb.org/"target="_blank"><img src="https://img.icons8.com/color/48/000000/maria-db.png"/></a>
+    <a href="https://www.rust-lang.org/"target="_blank"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-rust-is-a-multi-paradigm-system-programming-language-logo-color-tal-revivo.png"/></a>
+    <a href="https://www.ruby-lang.org/en/"target="_blank"><img src="https://img.icons8.com/fluency/48/000000/ruby-programming-language.png"/></a> -->
 
 
 
