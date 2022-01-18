@@ -17,7 +17,7 @@
 
 - ✨ My Hobbies **[Game](https://steamcommunity.com/id/Hexterwannacry/)** **[Anime](https://myanimelist.net/profile/H3X-T)** **[Series](https://www.netflix.com/browse)**
 
-## 📌 Languages and Frameworks: <!-- (some are still lerning)-->
+## 📌 Languages and Frameworks:
 
 <p align="left"> 
     <a href="https://www.w3schools.com/html/default.asp" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/></a> 
@@ -25,7 +25,7 @@
     <a href="https://www.w3schools.com/js/default.asp" target="_blank"><img src="https://img.icons8.com/color/48/000000/javascript.png"/></a> 
     <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/></a>
     <a href="https://www.python.org" target="_blank"><img src="https://img.icons8.com/color/48/000000/python.png"/></a>
-<!--     <a href="https://www.php.net/" target="_blank"><img src="https://img.icons8.com/offices/48/000000/php-logo.png"/></a>
+    <a href="https://www.php.net/" target="_blank"><img src="https://img.icons8.com/offices/48/000000/php-logo.png"/></a>
     <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"><img src="https://img.icons8.com/color/48/000000/c-programming.png"/></a>
     <a href="https://www.w3schools.com/cs/index.php" target="_blank"><img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png"/></a>
     <a href="https://www.w3schools.com/cpp/default.asp" target="_blank"><img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/></a>
@@ -45,7 +45,7 @@
     <a href="https://www.w3schools.com/jquERy/default.asp"target="_blank"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-jquery-is-a-javascript-library-designed-to-simplify-html-logo-shadow-tal-revivo.png"/></a>
     <a href="https://mariadb.org/"target="_blank"><img src="https://img.icons8.com/color/48/000000/maria-db.png"/></a>
     <a href="https://www.rust-lang.org/"target="_blank"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-rust-is-a-multi-paradigm-system-programming-language-logo-color-tal-revivo.png"/></a>
-    <a href="https://www.ruby-lang.org/en/"target="_blank"><img src="https://img.icons8.com/fluency/48/000000/ruby-programming-language.png"/></a> -->
+    <a href="https://www.ruby-lang.org/en/"target="_blank"><img src="https://img.icons8.com/fluency/48/000000/ruby-programming-language.png"/></a> 
 
 
 
@@ -66,12 +66,12 @@
     <a href="https://code.visualstudio.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/></a> 
     <a href="https://visualstudio.microsoft.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/visual-studio.png"/></a> 
     <a href="https://www.jetbrains.com/pycharm/" target="_blank"><img src="https://img.icons8.com/color/48/000000/pycharm.png"/></a> 
-<!--     <a href="https://www.jetbrains.com/idea/" target="_blank"><img src="https://img.icons8.com/color/48/000000/intellij-idea.png"/></a> -->
-<!--     <a href="https://www.jetbrains.com/webstorm/" target="_blank"><img src="https://img.icons8.com/color/48/000000/webstorm.png"/></a> -->
+    <a href="https://www.jetbrains.com/idea/" target="_blank"><img src="https://img.icons8.com/color/48/000000/intellij-idea.png"/></a> 
+    <a href="https://www.jetbrains.com/webstorm/" target="_blank"><img src="https://img.icons8.com/color/48/000000/webstorm.png"/></a> 
     <a href="https://neovim.io/" target="_blank"><img src="https://img.icons8.com/external-tal-revivo-filled-tal-revivo/48/000000/external-vim-a-highly-configurable-text-editor-for-efficiently-creating-and-changing-any-kind-of-text-logo-filled-tal-revivo.png"/></a>
     <a href="https://www.sublimetext.com/"target="_blank"><img src="https://img.icons8.com/fluency/48/000000/sublime-text.png"/></a>
-<!--     <a href="https://unity.com/" target="_blank"><img src="https://img.icons8.com/ios-filled/50/000000/unity.png"/></a> -->
-<!--     <a href="https://www.docker.com/" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/docker.png"/></a> -->
+    <a href="https://unity.com/" target="_blank"><img src="https://img.icons8.com/ios-filled/50/000000/unity.png"/></a> 
+    <a href="https://www.docker.com/" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/docker.png"/></a> 
     <a href="https://www.figma.com/files/recent?fuid=1060970518427022260" target="_blank"><img src="https://img.icons8.com/color/48/000000/figma--v1.png"/></a>
     <a href="https://git-scm.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/git.png"/></a>
     <a href="https://jupyter.org/" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/jupyter.png"/></a>
