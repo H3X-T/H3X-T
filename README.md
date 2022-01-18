@@ -66,12 +66,12 @@
     <a href="https://code.visualstudio.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/></a> 
     <a href="https://visualstudio.microsoft.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/visual-studio.png"/></a> 
     <a href="https://www.jetbrains.com/pycharm/" target="_blank"><img src="https://img.icons8.com/color/48/000000/pycharm.png"/></a> 
-    <a href="https://www.jetbrains.com/idea/" target="_blank"><img src="https://img.icons8.com/color/48/000000/intellij-idea.png"/></a>
-    <a href="https://www.jetbrains.com/webstorm/" target="_blank"><img src="https://img.icons8.com/color/48/000000/webstorm.png"/></a>
+<!--     <a href="https://www.jetbrains.com/idea/" target="_blank"><img src="https://img.icons8.com/color/48/000000/intellij-idea.png"/></a> -->
+<!--     <a href="https://www.jetbrains.com/webstorm/" target="_blank"><img src="https://img.icons8.com/color/48/000000/webstorm.png"/></a> -->
     <a href="https://neovim.io/" target="_blank"><img src="https://img.icons8.com/external-tal-revivo-filled-tal-revivo/48/000000/external-vim-a-highly-configurable-text-editor-for-efficiently-creating-and-changing-any-kind-of-text-logo-filled-tal-revivo.png"/></a>
     <a href="https://www.sublimetext.com/"target="_blank"><img src="https://img.icons8.com/fluency/48/000000/sublime-text.png"/></a>
-    <a href="https://unity.com/" target="_blank"><img src="https://img.icons8.com/ios-filled/50/000000/unity.png"/></a>
-    <a href="https://www.docker.com/" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/docker.png"/></a>
+<!--     <a href="https://unity.com/" target="_blank"><img src="https://img.icons8.com/ios-filled/50/000000/unity.png"/></a> -->
+<!--     <a href="https://www.docker.com/" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/docker.png"/></a> -->
     <a href="https://www.figma.com/files/recent?fuid=1060970518427022260" target="_blank"><img src="https://img.icons8.com/color/48/000000/figma--v1.png"/></a>
     <a href="https://git-scm.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/git.png"/></a>
     <a href="https://jupyter.org/" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/jupyter.png"/></a>
