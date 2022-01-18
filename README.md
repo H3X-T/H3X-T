@@ -17,7 +17,7 @@
 
 - ✨ My Hobbies **[Game](https://steamcommunity.com/id/Hexterwannacry/)** **[Anime](https://myanimelist.net/profile/H3X-T)** **[Series](https://www.netflix.com/browse)**
 
-## 📌 Languages and Frameworks: (some still lerning)
+## 📌 Languages and Frameworks I have learned: (some still learning)
 
 <p align="left"> 
     <a href="https://www.w3schools.com/html/default.asp" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/></a> 
@@ -45,7 +45,13 @@
     <a href="https://www.w3schools.com/jquERy/default.asp"target="_blank"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-jquery-is-a-javascript-library-designed-to-simplify-html-logo-shadow-tal-revivo.png"/></a>
     <a href="https://mariadb.org/"target="_blank"><img src="https://img.icons8.com/color/48/000000/maria-db.png"/></a>
     <a href="https://www.rust-lang.org/"target="_blank"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-rust-is-a-multi-paradigm-system-programming-language-logo-color-tal-revivo.png"/></a>
-    <a href="https://www.ruby-lang.org/en/"target="_blank"><img src="https://img.icons8.com/fluency/48/000000/ruby-programming-language.png"/></a> 
+    <a href="https://www.ruby-lang.org/en/"target="_blank"><img src="https://img.icons8.com/windows/48/000000/ruby-on-rails.png"/></a> 
+    <a href="https://www.typescriptlang.org/"target="_blank"><img src="https://img.icons8.com/color/48/000000/typescript.png"/></a>
+    <a href="https://nuxtjs.org/"target="_blank"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-nuxt-js-a-free-and-open-source-web-application-framework-logo-shadow-tal-revivo.png"/></a>
+    <a href="https://dart.dev/"target="_blank"><img src="https://img.icons8.com/color/48/000000/dart.png"/></a>
+    <a href="https://mui.com/"target="_blank"><img src="https://img.icons8.com/color/48/000000/material-ui.png"/></a>
+    
+    
 
 
 
