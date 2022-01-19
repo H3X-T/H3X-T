@@ -34,9 +34,10 @@
     <a href="https://go.dev/"target="_blank"><img src="https://img.icons8.com/color/48/000000/golang.png"/></a>
     <a href="https://www.w3schools.com/java/"target="_blank"><img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/></a>
     <a href="https://kotlinlang.org/"target="_blank"><img src="https://img.icons8.com/color/48/000000/kotlin.png"/></a>
+    <a href="https://dart.dev/"target="_blank"><img src="https://img.icons8.com/color/48/000000/dart.png"/></a>
     <a href="https://www.mongodb.com/"target="_blank"><img src="https://img.icons8.com/color/48/000000/mongodb.png"/></a>
     <a href="https://angular.io/"target="_blank"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-angular-a-typescript-based-open-source-web-application-framework-logo-color-tal-revivo.png"/></a>
-    <a href="https://reactjs.org/"target="_blank"><img src="https://img.icons8.com/office/48/000000/react.png"/></a>
+    <a href="https://reactjs.org/"target="_blank"><img src="https://img.icons8.com/color/48/000000/react-native.png"/></a>
     <a href="https://redux.js.org/"target="_blank"><img src="https://img.icons8.com/color/48/000000/redux.png"/></a>
     <a href="https://nodejs.org/en/"target="_blank"><img src="https://img.icons8.com/color/48/000000/nodejs.png"/></a>
     <a href="https://vuejs.org/"target="_blank"><img src="https://img.icons8.com/color/48/000000/vue-js.png"/></a>
@@ -44,11 +45,10 @@
     <a href="https://flask.palletsprojects.com/en/2.0.x/"target="_blank"><img src="https://img.icons8.com/ios/48/000000/flask.png"/></a>
     <a href="https://www.w3schools.com/jquERy/default.asp"target="_blank"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-jquery-is-a-javascript-library-designed-to-simplify-html-logo-shadow-tal-revivo.png"/></a>
     <a href="https://mariadb.org/"target="_blank"><img src="https://img.icons8.com/color/48/000000/maria-db.png"/></a>
-    <a href="https://www.rust-lang.org/"target="_blank"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-rust-is-a-multi-paradigm-system-programming-language-logo-color-tal-revivo.png"/></a>
-    <a href="https://www.ruby-lang.org/en/"target="_blank"><img src="https://img.icons8.com/windows/48/000000/ruby-on-rails.png"/></a> 
+<!--     <a href="https://www.rust-lang.org/"target="_blank"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-rust-is-a-multi-paradigm-system-programming-language-logo-color-tal-revivo.png"/></a> -->
+<!--     <a href="https://www.ruby-lang.org/en/"target="_blank"><img src="https://img.icons8.com/windows/48/000000/ruby-on-rails.png"/></a>  -->
     <a href="https://www.typescriptlang.org/"target="_blank"><img src="https://img.icons8.com/color/48/000000/typescript.png"/></a>
     <a href="https://nuxtjs.org/"target="_blank"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-nuxt-js-a-free-and-open-source-web-application-framework-logo-shadow-tal-revivo.png"/></a>
-    <a href="https://dart.dev/"target="_blank"><img src="https://img.icons8.com/color/48/000000/dart.png"/></a>
     <a href="https://mui.com/"target="_blank"><img src="https://img.icons8.com/color/48/000000/material-ui.png"/></a>
     <a href="https://laravel.com/"target="_blank"><img src="https://img.icons8.com/fluency/48/000000/laravel.png"/></a>
     
