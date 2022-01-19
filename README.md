@@ -17,7 +17,7 @@
 
 - ✨ My Hobbies **[Game](https://steamcommunity.com/id/Hexterwannacry/)** **[Anime](https://myanimelist.net/profile/H3X-T)** **[Series](https://www.netflix.com/browse)**
 
-## 📌 Languages and Frameworks I have learned: (some still learning)
+## 📌 Languages and Frameworks: (some still learning)
 
 <p align="left"> 
     <a href="https://www.w3schools.com/html/default.asp" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/></a> 
