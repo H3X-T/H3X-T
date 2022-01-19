@@ -9,7 +9,7 @@
 
 - 🏫 I'm studying at **[Debsirin School (ENG-JP)](https://www.debsirin.ac.th)**
 
-- 👯 I'm wana be **[Software Engineer](https://en.wikipedia.org/wiki/Software_engineering)**
+- 👯 I'm wana be a **[Software Engineer](https://en.wikipedia.org/wiki/Software_engineering)**
 
 - 👨‍💻 All of my projects are available at **[My GitHub](https://github.com/H3X-T?tab=repositories)**
 
