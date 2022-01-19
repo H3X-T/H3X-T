@@ -50,7 +50,7 @@
     <a href="https://nuxtjs.org/"target="_blank"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-nuxt-js-a-free-and-open-source-web-application-framework-logo-shadow-tal-revivo.png"/></a>
     <a href="https://dart.dev/"target="_blank"><img src="https://img.icons8.com/color/48/000000/dart.png"/></a>
     <a href="https://mui.com/"target="_blank"><img src="https://img.icons8.com/color/48/000000/material-ui.png"/></a>
-    
+    <a href="https://laravel.com/"target="_blank"><img src="https://img.icons8.com/fluency/48/000000/laravel.png"/>/a>
     
 
 
