@@ -29,7 +29,7 @@
     <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"><img src="https://img.icons8.com/color/48/000000/c-programming.png"/></a>
     <a href="https://www.w3schools.com/cs/index.php" target="_blank"><img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png"/></a>
     <a href="https://www.w3schools.com/cpp/default.asp" target="_blank"><img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/></a>
-    <a href="https://www.w3schools.com/r/default.asp" target="_blank"><img src="https://img.icons8.com/external-becris-flat-becris/48/000000/external-r-data-science-becris-flat-becris.png"/></a>
+<!--     <a href="https://www.w3schools.com/r/default.asp" target="_blank"><img src="https://img.icons8.com/external-becris-flat-becris/48/000000/external-r-data-science-becris-flat-becris.png"/></a> -->
     <a href="https://www.w3schools.com/sql/default.asp"target="_blank"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-mysql-an-open-source-relational-database-management-system-logo-shadow-tal-revivo.png"/></a>
     <a href="https://go.dev/"target="_blank"><img src="https://img.icons8.com/color/48/000000/golang.png"/></a>
     <a href="https://www.w3schools.com/java/"target="_blank"><img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/></a>
