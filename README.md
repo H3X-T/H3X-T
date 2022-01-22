@@ -80,7 +80,7 @@
 </p>
 
 <p align="center">
-      <a href="https://github.com/H3X-T/github-readme-stats"><img alt="H3X-T's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=H3X-T&layout=compact&theme=merko&hide_border=true&custom_title=Languages" /></a>
+      <a href="https://github.com/H3X-T/github-readme-stats"><img alt="H3X-T's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=H3X-T&langs_count=10&hide=jupyter notebook&layout=compact&theme=merko&hide_border=true&custom_title=Languages" /></a>
     <a href="https://github.com/H3X-T/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt= "Supakorn's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=H3X-T&theme=merko&hide_border=true&stroke=0000&background=0a0f0b"/></a>
 </p>
