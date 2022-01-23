@@ -1,6 +1,6 @@
 <h1 align="center">こんにちは。</h1>
 
-[![Spotify](https://novatorem-h3x-t.vercel.app/api/spotify)](https://open.spotify.com/user/314ljfgc3h2e3vrqtbm3tq35t5zq)
+[![Spotify](https://novatorem-brown-theta.vercel.app/api/spotify)](https://open.spotify.com/user/314ljfgc3h2e3vrqtbm3tq35t5zq)
 
 <img align="right" alt="GIF" height="140px" src="https://c.tenor.com/DXSGaTnT5tgAAAAC/green-aesthetic.gif" height="175px"/></a>
 
