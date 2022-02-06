@@ -1,7 +1,7 @@
 <h1 align="center">こんにちは。</h1>
 
 [![Spotify](https://novatorem-brown-theta.vercel.app/api/spotify/?background_color=0a0f0b&border_color=0a0f0b)](https://open.spotify.com/user/314ljfgc3h2e3vrqtbm3tq35t5zq)
-<img align="right" alt="GIF" height="200px" width="200" src="https://i.pinimg.com/564x/af/eb/d9/afebd95e3d822cecd9e9ef2cfccfb5af.jpg"></a>
+<img align="right" alt="GIF" height="200px" width="300" src="https://i.pinimg.com/564x/af/eb/d9/afebd95e3d822cecd9e9ef2cfccfb5af.jpg"></a>
 ## 🙋‍♂️ About Me
 
 - 🧢 My name is GAP , I'm16 years old , From **[Thailand](https://en.wikipedia.org/wiki/Thailand)** 
