@@ -7,7 +7,7 @@
 - 🧢 My name is GAP , I'm16 years old , From **[Thailand](https://en.wikipedia.org/wiki/Thailand)** 
 
 - 🏫 I'm studying at **[Debsirin School (ENG-JP)](https://www.debsirin.ac.th)**   
-<img align="right" alt="GIF" height="300px" width="300" src="https://i.pinimg.com/564x/18/e1/23/18e12351363e0dc49e8413711c815a93.jpg"></a>
+<img align="right" alt="GIF" height="300px" width="300" src="https://i.pinimg.com/564x/6d/02/3a/6d023ae72e3d990e7385a3e88cf781d0.jpg"></a>
 
 - 👯 I'm wana be a **[Software Engineer](https://en.wikipedia.org/wiki/Software_engineering)**
 
