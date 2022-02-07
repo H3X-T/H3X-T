@@ -2,7 +2,6 @@
 
 
 [<p align="center">![Spotify](https://novatorem-brown-theta.vercel.app/api/spotify/?background_color=0a0f0b&border_color=0a0f0b)](https://open.spotify.com/user/314ljfgc3h2e3vrqtbm3tq35t5zq)
-
 ## 🙋‍♂️ About Me
 
 - 🧢 My name is GAP , I'm16 years old , From **[Thailand](https://en.wikipedia.org/wiki/Thailand)** 
