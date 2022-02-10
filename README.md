@@ -17,6 +17,8 @@
 
 - ✨ My Hobbies **[Game](https://steamcommunity.com/id/Hexterwannacry/)** **[Anime](https://myanimelist.net/profile/H3X-T)** **[Series](https://www.netflix.com/browse)**
 
+I have a huge passion for coding. i want to learn everything
+
 <p align="left">
       <a href="https://github.com/H3X-T/github-readme-stats"><img alt="H3X-T's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=H3X-T&langs_count=10&hide=jupyter notebook&layout=compact&theme=merko&hide_border=true&custom_title=Languages" /></a>
 
