@@ -26,7 +26,6 @@
 <a href = "https://www.facebook.com/spkngap/"><img src="https://img.icons8.com/fluency/48/000000/facebook.png"/></a>
 <a href = "https://www.instagram.com/supakornigm/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 <a href ="https://steamcommunity.com/id/Hexterwannacry/"><img src="https://img.icons8.com/fluency/48/000000/steam.png"/></a>
-<a href = "https://stackoverflow.com/users/15500652/supakorn"><img src="https://img.icons8.com/color/48/000000/stackoverflow.png"/></a>
 <a href = "https://discord.gg/beVRbVVthh"><img src="https://img.icons8.com/color/48/000000/discord-new-logo.png"/></a>
 </p>
 
