@@ -4,7 +4,7 @@
 [<p align="center">![Spotify](https://novatorem-brown-theta.vercel.app/api/spotify/?background_color=0a0f0b&border_color=0a0f0b)](https://open.spotify.com/user/314ljfgc3h2e3vrqtbm3tq35t5zq)
 ## 🙋‍♂️ About Me
 
-- 🧢 My name is GA, I'm16 years old , From **[Thailand](https://en.wikipedia.org/wiki/Thailand)** 
+- 🧢 My name is GAP , I'm16 years old , From **[Thailand](https://en.wikipedia.org/wiki/Thailand)** 
 
 - 🏫 I'm studying at **[Debsirin School (ENG-JP)](https://www.debsirin.ac.th)**   
 <img align="right" alt="GIF" height="200px" width="200" src="https://i.pinimg.com/736x/32/37/da/3237da5df1a9d717555f4f6e4ef1a64b.jpg"></a>
@@ -34,5 +34,5 @@
     <img src="https://komarev.com/ghpvc/?username=H3X-T">
 </a>
 <a href="https://github.com/H3X-T?tab=followers"><img src="https://img.shields.io/github/followers/H3X-T?label=Followers&style=social" alt="GitHub Badge"></a>
-
+DD
       
