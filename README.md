@@ -21,7 +21,8 @@
       <a href="https://github.com/H3X-T/github-readme-stats"><img alt="H3X-T's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=H3X-T&langs_count=10&hide=jupyter notebook&layout=compact&theme=merko&hide_border=true&custom_title=Languages" /></a>
 
 <a href="https://github.com/H3X-T/github-readme-stats"><img alt="Supakorn's Github Stats" src="https://github-readme-stats.vercel.app/api?username=H3X-T&show_icons=true&count_private=true&theme=merko&hide_border=true&bg_color=0a0f0b" /></a>
-
+      
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/L4L6ARTNW)
 <p align="center">
 <a href = "https://www.facebook.com/spkngap/"><img src="https://img.icons8.com/fluency/48/000000/facebook.png"/></a>
 <a href = "https://www.instagram.com/supakornigm/"><img src="https://img.icons8.com/fluency/48/000000/instagram-new.png"/></a>
