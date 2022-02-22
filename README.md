@@ -29,9 +29,6 @@
 <a href = "https://discord.gg/beVRbVVthh"><img src="https://img.icons8.com/color/48/000000/discord-new-logo.png"/></a>
 </p>
 
-<a href="https://discord.com/users/485418798975811594">
-     <img src="https://lanyard.cnrad.dev/api/485418798975811594" width="400" height="200" />
-</a>
 
 <p align="center">
 <a href="https://github.com/H3X-T/github-profile-views-counter">
