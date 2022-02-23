@@ -9,8 +9,6 @@
 - 🏫 I'm studying at **[Debsirin School (ENG-JP)](https://www.debsirin.ac.th)**   
 <img align="right" alt="GIF" height="200px" width="200" src="https://i.pinimg.com/736x/32/37/da/3237da5df1a9d717555f4f6e4ef1a64b.jpg"></a>
 
-- 👯 I'm wana be a **[Software Engineer](https://en.wikipedia.org/wiki/Software_engineering)**
-
 - 👨‍💻 All of my projects are available at **[My GitHub](https://github.com/H3X-T?tab=repositories)**
 
 - ✨ My Hobbies **[Game](https://steamcommunity.com/id/Hexterwannacry/)** **[Anime](https://myanimelist.net/profile/H3X-T)** **[Series](https://www.netflix.com/browse)**
