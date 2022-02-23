@@ -13,8 +13,6 @@
 
 - 👨‍💻 All of my projects are available at **[My GitHub](https://github.com/H3X-T?tab=repositories)**
 
-- 📫 How to contact me **supakorn0728@gmail.com**
-
 - ✨ My Hobbies **[Game](https://steamcommunity.com/id/Hexterwannacry/)** **[Anime](https://myanimelist.net/profile/H3X-T)** **[Series](https://www.netflix.com/browse)**
 
 <p align="left">
