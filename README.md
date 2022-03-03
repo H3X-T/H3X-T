@@ -7,7 +7,7 @@
 - 🧢 My name is GAP , I'm16 years old , From **[Thailand](https://en.wikipedia.org/wiki/Thailand)** 
 
 - 🏫 I'm studying at **[Debsirin School (ENG-JP)](https://www.debsirin.ac.th)**   
-<img align="right" alt="GIF" height="300px" width="400" src="https://i.pinimg.com/originals/c0/05/ff/c005ff3a8420c1413b79cc8f4014296c.gif"></a>
+<img align="right" alt="GIF" height="200px" width="300" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fgifimage.net%2Fwp-content%2Fuploads%2F2018%2F10%2Fanime-gif-no-background-9.gif&f=1&nofb=1"></a>
 
 - 👨‍💻 All of my projects are available at **[My GitHub](https://github.com/H3X-T?tab=repositories)**
 
