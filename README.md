@@ -3,10 +3,11 @@
 
 [<p align="center">![Spotify](https://novatorem-brown-theta.vercel.app/api/spotify/?background_color=0a0f0b&border_color=0a0f0b)](https://open.spotify.com/user/314ljfgc3h2e3vrqtbm3tq35t5zq)
 ## 🙋‍♂️ About Me
-<p align="center"
+
 - 🧢 My name is GAP , I'm16 years old , From **[Thailand](https://en.wikipedia.org/wiki/Thailand)** 
 
 - 🏫 I'm studying at **[Debsirin School (ENG-JP)](https://www.debsirin.ac.th)**   
+      
 <!-- <img align="right" alt="GIF" height="300px" width="300" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fgifimage.net%2Fwp-content%2Fuploads%2F2018%2F10%2Fanime-gif-no-background-9.gif&f=1&nofb=1"></a> -->
 
 - 👨‍💻 All of my projects are available at **[My GitHub](https://github.com/H3X-T?tab=repositories)**
