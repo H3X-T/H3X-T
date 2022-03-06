@@ -17,8 +17,8 @@
 
 <p align="center">
     
-<a href="https://github.com/H3X-T/github-readme-stats"><img alt="H3X-T's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=H3X-T&langs_count=10&hide=jupyter notebook&layout=compact&theme=fffff&hide_border=true&custom_title=Languages"/>
-</a>
+    <a href="https://github.com/H3X-T/github-readme-stats"><img alt="H3X-T's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=H3X-T&langs_count=10&hide=jupyter notebook&layout=compact&theme=fffff&hide_border=true&custom_title=Languages"/>
+    </a>
     
 </p>
 
