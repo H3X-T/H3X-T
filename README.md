@@ -2,8 +2,6 @@
 
 [<p align="center">![Spotify](https://novatorem-brown-theta.vercel.app/api/spotify/?background_color=fffff&border_color=0a0f0b)](https://open.spotify.com/user/314ljfgc3h2e3vrqtbm3tq35t5zq)
 
-## 🙋‍♂️ About Me
-
 - 🧢 My name is GAP , I'm16 years old , From **[Thailand](https://en.wikipedia.org/wiki/Thailand)**
 
 - 🏫 I'm studying at **[Debsirin School (ENG-JP)](https://www.debsirin.ac.th)**
@@ -14,14 +12,10 @@
 
 - ✨ My Hobbies **[Game](https://steamcommunity.com/id/Hexterwannacry/)** **[Anime](https://myanimelist.net/profile/H3X-T)** **[Series](https://www.netflix.com/browse)**
 
-
 <p align="center">
     <a href="https://github.com/H3X-T/github-readme-stats"><img alt="H3X-T's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=H3X-T&langs_count=10&hide=jupyter notebook&layout=compact&theme=fffff&hide_border=true&custom_title=Languages"/>
     </a>
 </p>
-
-
-
 
 <div align="center">
     
@@ -30,7 +24,6 @@
 [<img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/spkngap/)
     
 </div>
-
 
 <p align="center">
 <a href="https://github.com/H3X-T/github-profile-views-counter">
