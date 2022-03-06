@@ -27,10 +27,7 @@
 <a href = "https://discord.gg/beVRbVVthh"><img src="https://img.icons8.com/color/48/000000/discord-new-logo.png"/></a>
 </p>
  -->
-<!-- [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/subhampreet-mohanty-534b9b1a9/) -->
-[<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/pp_3times/)
-[<img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/Poom3times/)
-<!-- [<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge">](https://subhampreet-mohanty-6cdeb.web.app/) -->
+
 
 
 <p align="center">
