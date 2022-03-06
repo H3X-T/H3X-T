@@ -13,30 +13,24 @@
 - 👨‍💻 All of my projects are available at **[My GitHub](https://github.com/H3X-T?tab=repositories)**
 
 - ✨ My Hobbies **[Game](https://steamcommunity.com/id/Hexterwannacry/)** **[Anime](https://myanimelist.net/profile/H3X-T)** **[Series](https://www.netflix.com/browse)**
-<p align="center">
+<p align="left">
       <a href="https://github.com/H3X-T/github-readme-stats"><img alt="H3X-T's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=H3X-T&langs_count=10&hide=jupyter notebook&layout=compact&theme=fffff&hide_border=true&custom_title=Languages"/>
       </a>
 </p>
-<!-- 
-<a href="https://github.com/H3X-T/github-readme-stats"><img alt="Supakorn's Github Stats" src="https://github-readme-stats.vercel.app/api?username=H3X-T&show_icons=true&count_private=true&theme=merko&hide_border=true&bg_color=0a0f0b" /></a> -->
-<!-- 
-<p align="center">
-<a href = "https://www.facebook.com/spkngap/"><img src="https://img.icons8.com/fluency/48/000000/facebook.png"/></a>
-<a href = "https://www.instagram.com/supakornigm/"><img src="https://img.icons8.com/fluency/48/000000/instagram-new.png"/></a>
-<a href ="https://steamcommunity.com/id/Hexterwannacry/"><img src="https://img.icons8.com/fluency/48/000000/steam.png"/></a>
-<a href = "https://discord.gg/beVRbVVthh"><img src="https://img.icons8.com/color/48/000000/discord-new-logo.png"/></a>
-</p>
- -->
-<div align="center">
 
+<p align="right">
+      <a href="https://github.com/H3X-T/github-readme-stats"><img alt="Supakorn's Github Stats" src="https://github-readme-stats.vercel.app/api?username=H3X-T&show_icons=true&count_private=true&theme=merko&hide_border=true&bg_color=0a0f0b" />
+      </a>
+</p>
+
+
+
+
+<div align="center">
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/supakornieamgomol/)
 [<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/supakornigm/)
 [<img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/spkngap/)
-<!-- [<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge">](https://subhampreet-mohanty-6cdeb.web.app/) -->
-
 </div>
-
-
 
 
 <p align="center">
