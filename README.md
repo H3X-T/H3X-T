@@ -38,10 +38,11 @@ All of my projects are available at **[My GitHub](https://github.com/H3X-T?tab=r
     
 </div>
 
-<p align="center">
+<!-- <p align="center">
 <a href="https://github.com/H3X-T/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=H3X-T">
 </a>
 <a href="https://github.com/H3X-T?tab=followers"> 
     <img src="https://img.shields.io/github/followers/H3X-T?label=Followers&style=social" alt="GitHub Badge">
 </a>
+ -->
