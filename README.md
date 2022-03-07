@@ -2,7 +2,7 @@
 
 <br>
 
-[<p align="center">![Spotify](https://novatorem-brown-theta.vercel.app/api/spotify/?background_color=fffff&border_color=ffff)](https://open.spotify.com/user/314ljfgc3h2e3vrqtbm3tq35t5zq)
+[<p align="center">![Spotify](https://novatorem-brown-theta.vercel.app/api/spotify/?background_color=ffff&border_color=ffff)](https://open.spotify.com/user/314ljfgc3h2e3vrqtbm3tq35t5zq)
 
 <br>
 <br>
