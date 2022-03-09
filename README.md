@@ -46,3 +46,7 @@ All of my projects are available at **[My GitHub](https://github.com/H3X-T?tab=r
     <img src="https://img.shields.io/github/followers/H3X-T?label=Followers&style=social" alt="GitHub Badge">
 </a>
  -->
+ <p align="center">
+    <a href="https://app.daily.dev/Supakorn"><img src="https://api.daily.dev/devcards/c476bf56295d48d2b01ea4fd737c03a5.png?r=why" width="400" alt="Supakorn Ieamgomol's Dev Card"/>
+    </a>
+</p>
