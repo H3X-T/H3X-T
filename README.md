@@ -47,6 +47,6 @@ All of my projects are available at **[My GitHub](https://github.com/H3X-T?tab=r
 </a>
  -->
  <p align="center">
-    <a href="https://app.daily.dev/Supakorn"><img src="https://api.daily.dev/devcards/c476bf56295d48d2b01ea4fd737c03a5.png?r=why" width="400" alt="Supakorn Ieamgomol's Dev Card"/>
+    <a href="https://app.daily.dev/Supakorn"><img src="https://api.daily.dev/devcards/c476bf56295d48d2b01ea4fd737c03a5.png?r=why" width="400" height="400" alt="Supakorn Ieamgomol's Dev Card"/>
     </a>
 </p>
