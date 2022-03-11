@@ -37,6 +37,7 @@ All of my projects are available at **[My GitHub](https://github.com/H3X-T?tab=r
 [<img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/spkngap/)
     
 </div>
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/L4L6ARTNW)
 
 <!-- <p align="center">
 <a href="https://github.com/H3X-T/github-profile-views-counter">
