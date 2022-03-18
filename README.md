@@ -2,11 +2,8 @@
 
 <br>
 
-[<p align="center">![Spotify](https://novatorem-brown-theta.vercel.app/api/spotify/?background_color=fffff&border_color=ffff)](https://open.spotify.com/user/314ljfgc3h2e3vrqtbm3tq35t5zq)
+[<p align="center">![Spotify](https://novatorem-brown-theta.vercel.app/api/spotify/?background_color=fffff&color=)](https://open.spotify.com/user/314ljfgc3h2e3vrqtbm3tq35t5zq)
 
-<br>
-<br>
-<br>
 <i style="font-weight: bold;" align="center">
 
 My name is GAP , I'm16 years old , From **[Thailand](https://en.wikipedia.org/wiki/Thailand)**
@@ -16,14 +13,9 @@ All of my projects are available at **[My GitHub](https://github.com/H3X-T?tab=r
 
 </i>
 
-<br>
-<br>
-
 <div align="center">
 <img src="https://media0.giphy.com/media/Ieo88333eatH73xKQG/200w.webp" style="width:100px" >
 </div>
-
-<br>
 
 <p align="center">
     <a href="https://github.com/H3X-T/github-readme-stats"><img alt="H3X-T's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=H3X-T&langs_count=10&hide=jupyter notebook&layout=compact&theme=fffff&hide_border=true&custom_title=Languages"/>
@@ -38,9 +30,10 @@ All of my projects are available at **[My GitHub](https://github.com/H3X-T?tab=r
     
 </div>
 
-<p align="center">
+</div>
+<!-- <p align="center">
 <a href="https://github.com/H3X-T/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=H3X-T">
 </a>
 <a href="https://github.com/H3X-T?tab=followers"><img src="https://img.shields.io/github/followers/H3X-T?label=Followers&style=social" alt="GitHub Badge">
-</a>
+</a> -->
