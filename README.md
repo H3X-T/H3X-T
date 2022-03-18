@@ -20,8 +20,6 @@ All of my projects are available at **[My GitHub](https://github.com/H3X-T?tab=r
     </a>
 </p>
 
-#
-
 <div align="center">
     
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/supakornieamgomol/)
