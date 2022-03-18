@@ -10,7 +10,7 @@ All of my projects are available at **[My GitHub](https://github.com/H3X-T?tab=r
 </i>
 
 <p align="center">
-    <a href="https://app.daily.dev/Supakorn"><img src="https://api.daily.dev/devcards/c476bf56295d48d2b01ea4fd737c03a5.png?r=hd6" width="200" alt="Supakorn Ieamgomol's Dev Card"/></a>
+    <a href="https://app.daily.dev/Supakorn"><img src="https://api.daily.dev/devcards/c476bf56295d48d2b01ea4fd737c03a5.png?r=hd6" width="300" alt="Supakorn Ieamgomol's Dev Card"/></a>
 </p>
 
 <p align="center">
