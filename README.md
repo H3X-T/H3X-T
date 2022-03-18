@@ -7,7 +7,7 @@
 My name is GAP , I'm17 years old , From **[Thailand](https://en.wikipedia.org/wiki/Thailand)** ,
 I'm studying at **[Debsirin School (ENG-JP)](https://www.debsirin.ac.th)**
 
-All of my projects are available at **[My GitHub](https://github.com/H3X-T?tab=repositories)** , My Hobbies **[Game](https://steamcommunity.com/id/Hexterwannacry/)** **[Anime](https://myanimelist.net/profile/H3X-T)** **[Series](https://www.netflix.com/browse)**
+All of my projects are available at **[My GitHub](https://github.com/H3X-T?tab=repositories)**
 
 </i>
 
