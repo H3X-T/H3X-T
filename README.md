@@ -1,7 +1,5 @@
 <h1 align="center">こんにちは。<img src="https://media2.giphy.com/media/vAi1XUShhkPpx9bEP4/200w.webp" style="width:30px"> </h1>
 
-<br>
-
 [<p align="center">![Spotify](https://novatorem-brown-theta.vercel.app/api/spotify/?background_color=fffff&color=)](https://open.spotify.com/user/314ljfgc3h2e3vrqtbm3tq35t5zq)
 
 <i style="font-weight: bold;" align="center">
