@@ -1,13 +1,13 @@
 [<p align="center">![Spotify](https://novatorem-brown-theta.vercel.app/api/spotify/?background_color=000)](https://open.spotify.com/user/314ljfgc3h2e3vrqtbm3tq35t5zq)
 
-<i style="font-weight: bold;" align="center">
+<!-- <i style="font-weight: bold;" align="center">
 
 My name is GAP , I'm17 years old , From **[Thailand](https://en.wikipedia.org/wiki/Thailand)** ,
 I'm studying at **[Debsirin School (ENG-JP)](https://www.debsirin.ac.th)**
 
 All of my projects are available at **[My GitHub](https://github.com/H3X-T?tab=repositories)**
 
-</i>
+</i> -->
 
 <!-- <p align="center">
     <a href="https://app.daily.dev/Supakorn"><img src="https://api.daily.dev/devcards/c476bf56295d48d2b01ea4fd737c03a5.png?r=hd6" width="300" alt="Supakorn Ieamgomol's Dev Card"/></a>
