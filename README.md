@@ -1,4 +1,4 @@
-[<p align="center">![Spotify](https://novatorem-brown-theta.vercel.app/api/spotify/?background_color=fffff&color=)](https://open.spotify.com/user/314ljfgc3h2e3vrqtbm3tq35t5zq)
+[<p align="center">![Spotify](https://novatorem-brown-theta.vercel.app/api/spotify/?background_color=000)](https://open.spotify.com/user/314ljfgc3h2e3vrqtbm3tq35t5zq)
 
 <i style="font-weight: bold;" align="center">
 
@@ -9,12 +9,12 @@ All of my projects are available at **[My GitHub](https://github.com/H3X-T?tab=r
 
 </i>
 
-<p align="center">
+<!-- <p align="center">
     <a href="https://app.daily.dev/Supakorn"><img src="https://api.daily.dev/devcards/c476bf56295d48d2b01ea4fd737c03a5.png?r=hd6" width="300" alt="Supakorn Ieamgomol's Dev Card"/></a>
-</p>
+</p> -->
 
 <p align="center">
-    <a href="https://github.com/H3X-T/github-readme-stats"><img alt="H3X-T's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=H3X-T&langs_count=10&hide=jupyter notebook&layout=compact&theme=fffff&hide_border=true&custom_title=Languages"/>
+    <a href="https://github.com/H3X-T/github-readme-stats"><img alt="H3X-T's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=H3X-T&langs_count=10&hide=jupyter notebook&layout=compact&theme=chartreuse-dark&hide_border=true&custom_title=Languages"/>
     </a>
 </p>
 
