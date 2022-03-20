@@ -1,4 +1,4 @@
-# <b align="center">Hi 👋, I'm GAP.</b>
+# <div align="center"> <b>Hi 👋, I'm GAP.</b> </div>
 
 [<p align="center">![Spotify](https://novatorem-brown-theta.vercel.app/api/spotify/?background_color=000)](https://open.spotify.com/user/314ljfgc3h2e3vrqtbm3tq35t5zq)
 
