@@ -1,5 +1,4 @@
-# <div align="center"> <img src="https://discord.c99.nl/widget/theme-2/485418798975811594.png"> </div>
-
+<div align="center"> <img src="https://discord.c99.nl/widget/theme-2/485418798975811594.png"> </div>
 <hr>
 
 [<p align="center">![Spotify](https://novatorem-brown-theta.vercel.app/api/spotify/?background_color=282C34&border_color=none)](https://open.spotify.com/user/314ljfgc3h2e3vrqtbm3tq35t5zq)
