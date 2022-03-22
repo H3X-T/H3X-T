@@ -1,6 +1,8 @@
-# <div align="center"> <b>Hi 👋, I'm GAP.</b> </div>
+# <div align="center"> <img src="https://discord.c99.nl/widget/theme-2/485418798975811594.png"> </div>
 
-[<p align="center">![Spotify](https://novatorem-brown-theta.vercel.app/api/spotify/?background_color=transparent)](https://open.spotify.com/user/314ljfgc3h2e3vrqtbm3tq35t5zq)
+<hr>
+
+[<p align="center">![Spotify](https://novatorem-brown-theta.vercel.app/api/spotify/?background_color=282C34&border_color=none)](https://open.spotify.com/user/314ljfgc3h2e3vrqtbm3tq35t5zq)
 
 <!-- <i style="font-weight: bold;" align="center">
 
@@ -16,7 +18,7 @@ All of my projects are available at **[My GitHub](https://github.com/H3X-T?tab=r
 </p> -->
 
 <p align="center">
-    <img src="https://discord.c99.nl/widget/theme-4/485418798975811594.png">
+    
 </p>
 
 <p align="center">
