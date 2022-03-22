@@ -1,6 +1,6 @@
 # <div align="center"> <b>Hi 👋, I'm GAP.</b> </div>
 
-[<p align="center">![Spotify](https://novatorem-brown-theta.vercel.app/api/spotify/?background_color=000)](https://open.spotify.com/user/314ljfgc3h2e3vrqtbm3tq35t5zq)
+[<p align="center">![Spotify](https://novatorem-brown-theta.vercel.app/api/spotify/?background_color=transparent)](https://open.spotify.com/user/314ljfgc3h2e3vrqtbm3tq35t5zq)
 
 <!-- <i style="font-weight: bold;" align="center">
 
@@ -16,10 +16,14 @@ All of my projects are available at **[My GitHub](https://github.com/H3X-T?tab=r
 </p> -->
 
 <p align="center">
-    <a href="https://github.com/H3X-T/github-readme-stats"><img alt="H3X-T's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=H3X-T&langs_count=10&hide=jupyter notebook&layout=compact&theme=chartreuse-dark&hide_border=true&custom_title=Languages"/>
-    </a>
+    <img src="https://discord.c99.nl/widget/theme-4/485418798975811594.png">
 </p>
 
+<p align="center">
+    <a href="https://github.com/H3X-T/github-readme-stats"><img alt="H3X-T's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=H3X-T&langs_count=10&hide=jupyter notebook&layout=compact&theme=onedark&hide_border=true&custom_title=Languages"/>
+    </a>
+</p>
+    
 <div align="center">
     
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/supakornieamgomol/)
