@@ -21,7 +21,7 @@ All of my projects are available at **[My GitHub](https://github.com/H3X-T?tab=r
 </p>
 
 <p align="center">
-    <a href="https://github.com/H3X-T/github-readme-stats"><img alt="H3X-T's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=H3X-T&langs_count=10&hide=jupyter notebook&layout=compact&theme=onedark&hide_border=true&custom_title=Languages"/>
+    <a href="https://github.com/H3X-T/github-readme-stats"><img alt="H3XxT's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=H3X-T&langs_count=10&hide=jupyter notebook&layout=compact&theme=onedark&hide_border=true&custom_title=Languages"/>
     </a>
 </p>
     
