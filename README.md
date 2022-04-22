@@ -25,4 +25,6 @@ I'm studying at **[Debsirin School (ENG-JP)](https://www.debsirin.ac.th)** -->
 
 [<p align="left">![wakatime](https://wakatime.com/badge/user/b7ac4332-4784-4ad9-a872-febcac6558b4.svg)](https://wakatime.com/@b7ac4332-4784-4ad9-a872-febcac6558b4)
 
+[![Discord Presence](https://lanyard.cnrad.dev/api/485418798975811594)](https://discord.com/users/485418798975811594)
+
 [<p align="left">![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/L4L6ARTNW)
