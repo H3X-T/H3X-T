@@ -10,7 +10,6 @@
   <a href="https://github.com/H3XxT"><img alt="Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 </p>
-<i style="font-weight: bold;" align="center">
 
 <!-- My name is GAP , I'm17 years old , From **[Thailand](https://en.wikipedia.org/wiki/Thailand)** ,
 I'm studying at **[Debsirin School (ENG-JP)](https://www.debsirin.ac.th)** -->
