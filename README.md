@@ -19,7 +19,7 @@ I'm studying at **[Debsirin School (ENG-JP)](https://www.debsirin.ac.th)** -->
 <!-- [<p align="center">![Spotify](https://novatorem-brown-theta.vercel.app/api/spotify/?background_color=282C34&border_color=none)](https://open.spotify.com/user/314ljfgc3h2e3vrqtbm3tq35t5zq) -->
 
 <p align="left">
-    <a href="https://github.com/H3X-T/github-readme-stats"><img alt="H3XxT's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=H3XxT&langs_count=10&hide=jupyter notebook&layout=compact&theme=dark&hide_border=true&custom_title=Languages"/>
+    <a href="https://github.com/H3X-T/github-readme-stats"><img alt="H3XxT's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=H3XxT&langs_count=10&hide=jupyter notebook&layout=compact&theme=dracula&hide_border=true&custom_title=Languages"/>
     </a>
 </p>
 
