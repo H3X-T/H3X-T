@@ -1,7 +1,7 @@
 <!-- <div align="center"> <img src="https://discord.c99.nl/widget/theme-1/485418798975811594.png"> </div>
 <hr> -->
 
-# <b>👋Hi! , I'm Gap.</b
+# <b>👋Hi! , I'm Gap.</b>
 
 <p>
   <a href="https://www.linkedin.com/in/supakornieamgomol/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
