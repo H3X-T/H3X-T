@@ -24,7 +24,7 @@ I'm studying at **[Debsirin School (ENG-JP)](https://www.debsirin.ac.th)** -->
     <a href="https://github.com/H3XxT/github-readme-stats"><img alt="H3XxT's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=H3XxT&langs_count=10&hide=jupyter notebook&layout=compact&theme=dark&hide_border=true&custom_title=Languages"/>
     </a>
 </p>
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=H3XxT&hide=jupyter notebook)](https://github.com/anuraghazra/github-readme-stats)
 [<p align="left">![wakatime](https://wakatime.com/badge/user/b7ac4332-4784-4ad9-a872-febcac6558b4.svg)](https://wakatime.com/@b7ac4332-4784-4ad9-a872-febcac6558b4)
 
 <!-- [<p align="left">![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/L4L6ARTNW) -->
