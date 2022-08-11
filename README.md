@@ -14,7 +14,7 @@
     </a>
 </p>
 
-[![wakatime](https://wakatime.com/badge/user/b7ac4332-4784-4ad9-a872-febcac6558b4.svg)](https://wakatime.com/@b7ac4332-4784-4ad9-a872-febcac6558b4)
+![wakatime](https://wakatime.com/badge/user/b7ac4332-4784-4ad9-a872-febcac6558b4.svg)](https://wakatime.com/@b7ac4332-4784-4ad9-a872-febcac6558b4)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itzmeowww&theme=dark&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=H3XxT&hide=jupyter notebook&theme=dark&layout=compact)
 
