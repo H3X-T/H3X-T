@@ -17,3 +17,4 @@
 [![wakatime](https://wakatime.com/badge/user/b7ac4332-4784-4ad9-a872-febcac6558b4.svg)](https://wakatime.com/@b7ac4332-4784-4ad9-a872-febcac6558b4)
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=h3xxt)](https://github.com/anuraghazra/github-readme-stats)
