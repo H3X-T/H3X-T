@@ -9,10 +9,7 @@
   <a href="https://discord.com/users/977487166609457172"><img alt="Discord" src="https://img.shields.io/badge/discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
 </p>
 
-<p align="left">
-    <a href="https://github.com/H3XxT/github-readme-stats"><img alt="H3XxT's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=H3XxT&langs_count=10&layout=compact&theme=dark&hide_border=true&custom_title=Languages"/>
-    </a>
-</p>
+
 
 [![wakatime](https://wakatime.com/badge/user/b7ac4332-4784-4ad9-a872-febcac6558b4.svg)](https://wakatime.com/@b7ac4332-4784-4ad9-a872-febcac6558b4)
 
