@@ -21,7 +21,7 @@ I'm studying at **[Debsirin School (ENG-JP)](https://www.debsirin.ac.th)** -->
 <!-- [<p align="left">![Discord Presence](https://lanyard.cnrad.dev/api/485418798975811594)](https://discord.com/users/485418798975811594) -->
 
 <p align="left">
-    <a href="https://github.com/H3X-T/github-readme-stats"><img alt="H3XxT's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=H3XxT&langs_count=10&hide=jupyter notebook&layout=compact&theme=dark&hide_border=true&custom_title=Languages"/>
+    <a href="https://github.com/H3XxT/github-readme-stats"><img alt="H3XxT's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=H3XxT&langs_count=10&hide=jupyter notebook&layout=compact&theme=dark&hide_border=true&custom_title=Languages"/>
     </a>
 </p>
 
