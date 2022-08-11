@@ -10,7 +10,7 @@
 </p>
 
 <p align="left">
-    <a href="https://github.com/H3XxT/github-readme-stats"><img alt="H3XxT's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=H3XxT&langs_count=10&hide=jupyter&layout=compact&theme=dark&hide_border=true&custom_title=Languages"/>
+    <a href="https://github.com/H3XxT/github-readme-stats"><img alt="H3XxT's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=H3XxT&langs_count=10&hide=jupyter notebook&layout=compact&theme=dark&hide_border=true&custom_title=Languages"/>
     </a>
 </p>
 
