@@ -11,6 +11,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=h3xxt&langs_count=10&layout=compact&theme=dark&hide_border=true&custom_title=Languages)](https://github.com/anuraghazra/github-readme-stats)
 
-[![wakatime](https://wakatime.com/badge/user/b7ac4332-4784-4ad9-a872-febcac6558b4.svg)](https://wakatime.com/@b7ac4332-4784-4ad9-a872-febcac6558b4
+[![wakatime](https://wakatime.com/badge/user/b7ac4332-4784-4ad9-a872-febcac6558b4.svg)](https://wakatime.com/@b7ac4332-4784-4ad9-a872-febcac6558b4)
 
 
