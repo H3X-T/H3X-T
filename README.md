@@ -8,5 +8,5 @@
   <a href="https://discord.com/users/977487166609457172"><img alt="Discord" src="https://img.shields.io/badge/discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gapxh&langs_count=10&layout=compact&theme=transparent&hide_border=true&custom_title=Languages)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gapx&langs_count=10&layout=compact&theme=transparent&hide_border=true&custom_title=Languages)](https://github.com/anuraghazra/github-readme-stats)
 
