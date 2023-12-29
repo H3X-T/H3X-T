@@ -25,7 +25,6 @@
   </ul>
   <li><strong><i>Others</i></strong></li>
   <ul>
-    <li>Vite</li>
     <li>Docker</li>
     <li>GraphQL</li>
     <li>Prisma</li>
