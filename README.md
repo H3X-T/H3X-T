@@ -32,8 +32,8 @@
   </ul>
   <li><strong><i>Social Media</i></strong></li>
   <ul>
-    <a href="https://instagram.com/supakornigm" style="color: white !important;"><strong><li>Instagram</li></strong></a>
-    <a href="https://discord.com/users/977487166609457172" style="color: white !important;"><strong><li>Discord</li></strong></a>
+    <a href="https://instagram.com/supakornigm"><strong><li>Instagram</li></strong></a>
+    <a href="https://discord.com/users/977487166609457172"><strong><li>Discord</li></strong></a>
   </ul>
 </ul>
 
