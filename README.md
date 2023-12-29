@@ -29,5 +29,6 @@
     <li>Docker</li>
     <li>GraphQL</li>
     <li>Prisma</li>
+    <li>Redis</li>
   </ul>
 </ul>
