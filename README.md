@@ -30,4 +30,10 @@
     <li>Prisma</li>
     <li>Redis</li>
   </ul>
+  <li><strong><i>Social Media</i></strong></li>
+  <ul>
+    <a href="https://instagram.com/supakornigm"><li>Instagram</li></a>
+    <a href="https://discord.com/users/977487166609457172"><li>Discord</li></a>
+  </ul>
 </ul>
+
