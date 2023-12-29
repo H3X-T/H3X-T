@@ -6,6 +6,7 @@
     <li>Nest</li>
     <li>Vue</li>
     <li>Svelte</li>
+    <li>React Native</li>
   </ul>
   <li><strong><i>Golang</i></strong></li>
   <ul>
