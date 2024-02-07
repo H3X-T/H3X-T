@@ -36,4 +36,3 @@
     <a href="https://discord.com/users/977487166609457172"><strong><li>Discord</li></strong></a>
   </ul>
 </ul>
-
