@@ -3,6 +3,15 @@
 </div>
 
 <!--START_SECTION:waka-->
+
+```txt
+Java         5 hrs           ██████████████████████▒░░   89.72 %
+Go           18 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.50 %
+TypeScript   14 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.46 %
+CSS          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 %
+JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+```
+
 <!--END_SECTION:waka-->
 
 &nbsp;<div align="center">
