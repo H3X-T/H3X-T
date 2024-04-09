@@ -4,12 +4,16 @@
 
 <!--START_SECTION:waka-->
 
-```txt
-TypeScript       180 hrs 57 mins ███████████░░░░░░░░░░░░░░   43.68 %
-JavaScript       121 hrs 3 mins  ███████▒░░░░░░░░░░░░░░░░░   29.22 %
-Go               34 hrs 46 mins  ██░░░░░░░░░░░░░░░░░░░░░░░   08.39 %
-Svelte           15 hrs 43 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   03.79 %
-Other            9 hrs 42 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.34 %
+```rust
+From: 19 April 2022 - To: 09 April 2024
+
+Total Time: 404 hrs 36 mins
+
+TypeScript       180 hrs 57 mins >>>>>>>>>>>--------------   43.68 %
+JavaScript       121 hrs 3 mins  >>>>>>>------------------   29.22 %
+Go               34 hrs 46 mins  >>-----------------------   08.39 %
+Svelte           15 hrs 43 mins  >------------------------   03.79 %
+Other            9 hrs 42 mins   >------------------------   02.34 %
 ```
 
 <!--END_SECTION:waka-->
