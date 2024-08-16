@@ -1,15 +1,20 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 19 April 2022 - To: 15 August 2024
+From: 17 July 2024 - To: 16 August 2024
 
-Total Time: 457 hrs 50 mins
+Total Time: 24 hrs 11 mins
 
-TypeScript       227 hrs 38 mins >>>>>>>>>>>>-------------   48.68 %
-JavaScript       121 hrs 13 mins >>>>>>-------------------   25.92 %
-Go               35 hrs 46 mins  >>-----------------------   07.65 %
-Svelte           15 hrs 43 mins  >------------------------   03.36 %
-Other            9 hrs 48 mins   >------------------------   02.10 %
+TypeScript   18 hrs 27 mins  >>>>>>>>>>>>>>>>>>>------   76.14 %
+HTML         1 hr 42 mins    >>-----------------------   07.05 %
+Go           1 hr            >------------------------   04.16 %
+Rust         57 mins         >------------------------   03.96 %
+Prisma       35 mins         >------------------------   02.47 %
+YAML         31 mins         >------------------------   02.18 %
+Lua          18 mins         -------------------------   01.29 %
+Bash         9 mins          -------------------------   00.68 %
+JavaScript   8 mins          -------------------------   00.59 %
+Docker       6 mins          -------------------------   00.43 %
 ```
 
 <!--END_SECTION:waka-->
