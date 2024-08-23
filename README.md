@@ -1,6 +1,6 @@
 <!--START_SECTION:waka-->
 
-```rust
+```go
 From: 19 April 2022 - To: 22 August 2024
 
 Total Time: 461 hrs 47 mins
@@ -22,7 +22,6 @@ Other            9 hrs 48 mins   >------------------------   02.08 %
 
 &nbsp;<div align="center">
   [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/supakornigm/)
-  [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/977487166609457172)
 </div>
 
 
