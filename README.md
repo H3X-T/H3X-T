@@ -1,15 +1,15 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 19 April 2022 - To: 30 August 2024
+From: 19 April 2022 - To: 31 August 2024
 
-Total Time: 470 hrs 8 mins
+Total Time: 470 hrs 43 mins
 
-TypeScript       229 hrs 34 mins >>>>>>>>>>>>-------------   47.83 %
-JavaScript       121 hrs 13 mins >>>>>>-------------------   25.26 %
-Go               42 hrs 1 min    >>-----------------------   08.75 %
+TypeScript       229 hrs 34 mins >>>>>>>>>>>>-------------   47.77 %
+JavaScript       121 hrs 13 mins >>>>>>-------------------   25.23 %
+Go               42 hrs 34 mins  >>-----------------------   08.86 %
 Svelte           15 hrs 43 mins  >------------------------   03.27 %
-Other            9 hrs 49 mins   >------------------------   02.05 %
+Other            9 hrs 49 mins   >------------------------   02.04 %
 ```
 
 <!--END_SECTION:waka-->
