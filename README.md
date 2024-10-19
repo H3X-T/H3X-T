@@ -21,8 +21,5 @@ Other            10 hrs 49 mins  >------------------------   02.04 %
 </div>
 -->
 
-&nbsp;<div align="center">
-  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/supakornigm/)
-</div>
 
 
