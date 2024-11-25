@@ -1,18 +1,18 @@
 <!--START_SECTION:waka-->
 
 ```go
-From: 19 April 2022 - To: 23 November 2024
+From: 19 April 2022 - To: 24 November 2024
 
-Total Time: 568 hrs 23 mins
+Total Time: 568 hrs 38 mins
 
-TypeScript       236 hrs 18 mins >>>>>>>>>>---------------   41.58 %
-JavaScript       121 hrs 47 mins >>>>>--------------------   21.43 %
-Go               86 hrs 45 mins  >>>>---------------------   15.26 %
+TypeScript       236 hrs 18 mins >>>>>>>>>>---------------   41.56 %
+JavaScript       121 hrs 47 mins >>>>>--------------------   21.42 %
+Go               87 hrs 1 min    >>>>---------------------   15.30 %
 Python           22 hrs 43 mins  >------------------------   04.00 %
-Svelte           15 hrs 43 mins  >------------------------   02.77 %
+Svelte           15 hrs 43 mins  >------------------------   02.76 %
 Other            11 hrs 11 mins  -------------------------   01.97 %
 Java             9 hrs 16 mins   -------------------------   01.63 %
-HTML             8 hrs 19 mins   -------------------------   01.47 %
+HTML             8 hrs 19 mins   -------------------------   01.46 %
 EJS              7 hrs 22 mins   -------------------------   01.30 %
 JSON             5 hrs 26 mins   -------------------------   00.96 %
 Bash             5 hrs 1 min     -------------------------   00.88 %
