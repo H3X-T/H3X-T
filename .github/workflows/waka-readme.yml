@@ -24,4 +24,4 @@ jobs:
           SHOW_TOTAL: true # optional
           SHOW_MASKED_TIME: true # optional
           STOP_AT_OTHER: false # optional
-          IGNORED_LANGUAGES:  # optional
+          IGNORED_LANGUAGES: Text, tmux, Git Config, Bash, JSON, Markdown, YAML, Powershell # optional
