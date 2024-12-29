@@ -37,9 +37,7 @@ jobs:
             INI
             Bash
             Shell
-            Git Config
-            Dockerfile
-            Makefile
+            gitconfig
             Zsh
             Batchfile
             TSConfig
@@ -47,8 +45,8 @@ jobs:
             go.mod
             Textmate
             ActionScript 3
-            GitIgnore file
-            Vim script
+            gitignore
+            vim
             Scheme
             D
             PowerShell
