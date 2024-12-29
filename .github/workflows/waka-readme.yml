@@ -28,6 +28,7 @@ jobs:
             JSON
             Markdown
             Other
+            XML
             YAML
             Text
             CSV
@@ -51,6 +52,5 @@ jobs:
             Scheme
             D
             PowerShell
-            Blade Template
             Ezhil
             TSQL
