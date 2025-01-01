@@ -36,14 +36,14 @@ jobs:
             INI
             Bash
             Shell
-            Git Config
+            "Git Config"
             Zsh
             Batchfile
             TSConfig
             ERB
             go.mod
             Textmate
-            ActionScript 3
+            "ActionScript 3"
             gitignore
             vim
             Scheme
