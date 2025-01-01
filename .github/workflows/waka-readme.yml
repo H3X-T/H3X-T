@@ -24,31 +24,4 @@ jobs:
           SHOW_TOTAL: true # optional
           SHOW_MASKED_TIME: true # optional
           STOP_AT_OTHER: false # optional
-          IGNORED_LANGUAGES: |
-            JSON
-            Markdown
-            Other
-            XML
-            YAML
-            Text
-            CSV
-            TOML
-            tmux
-            INI
-            Bash
-            Shell
-            Git Config
-            Zsh
-            Batchfile
-            TSConfig
-            ERB
-            go.mod
-            Textmate
-            ActionScript 3
-            gitignore
-            vim
-            Scheme
-            D
-            PowerShell
-            Ezhil
-            TSQL
+          IGNORED_LANGUAGES: JSON Markdown Other XML YAML Text CSV TOML tmux INI Bash Shell Git Config Zsh Batchfile TSConfig ERB go.mod Textmate ActionScript 3 gitignore vim Scheme D PowerShell Ezhil TSQL
