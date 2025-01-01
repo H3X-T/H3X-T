@@ -1,8 +1,6 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 19 April 2022 - To: 31 December 2024
-
 TypeScript                       >>>>>>>>>>---------------   38.25 %
 JavaScript                       >>>>>--------------------   19.30 %
 Go                               >>>>---------------------   16.87 %
