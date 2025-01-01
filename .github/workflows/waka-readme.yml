@@ -37,7 +37,7 @@ jobs:
             INI
             Bash
             Shell
-            gitconfig
+            Git Config
             Zsh
             Batchfile
             TSConfig
