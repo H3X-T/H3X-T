@@ -27,7 +27,6 @@ jobs:
           IGNORED_LANGUAGES: |
             JSON
             Markdown
-            Other
             XML
             YAML
             Text
