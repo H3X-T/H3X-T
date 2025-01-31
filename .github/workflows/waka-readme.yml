@@ -19,36 +19,9 @@ jobs:
           BLOCKS: -> # optional
           CODE_LANG: go # optional
           TIME_RANGE: all_time # optional
-          LANG_COUNT: 30 # optional
+          LANG_COUNT: 1000 # optional
           SHOW_TIME: true # optional
           SHOW_TOTAL: true # optional
           SHOW_MASKED_TIME: false # optional
           STOP_AT_OTHER: false # optional
           IGNORED_LANGUAGES: |
-            Other
-            JSON
-            Markdown
-            XML
-            YAML
-            Text
-            CSV
-            TOML
-            tmux
-            INI
-            Bash
-            Shell
-            "Git Config"
-            Zsh
-            Batchfile
-            TSConfig
-            ERB
-            go.mod
-            Textmate
-            "ActionScript 3"
-            gitignore
-            vim
-            Scheme
-            D
-            PowerShell
-            Ezhil
-            TSQL
