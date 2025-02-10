@@ -25,4 +25,6 @@ jobs:
           SHOW_MASKED_TIME: false # optional
           STOP_AT_OTHER: false # optional
           IGNORED_LANGUAGES: |
-            OTHER
+            Other
+            "Git Config"
+            
